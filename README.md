@@ -8,5 +8,4 @@ While running the file, you may notice a pygame message being displayed, that's 
 Enjoy this program!
 
 
-Made with Python. APIs from the CoWin API.
 CoWIn APIs can be found here - https://apisetu.gov.in/public/marketplace/api/cowin
